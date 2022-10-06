@@ -2,7 +2,7 @@
 
 namespace App\Events;
 
-use Illuminate\Queue\SerializesModels;
+use Illuminate\Queue\SerializesModels; 
 use Modules\Chat\Entities\Conversation;
 use Illuminate\Broadcasting\PrivateChannel;
 use Illuminate\Broadcasting\InteractsWithSockets; 
