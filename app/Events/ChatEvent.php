@@ -6,7 +6,7 @@ use Illuminate\Queue\SerializesModels;
 use Modules\Chat\Entities\Conversation;
 use Illuminate\Broadcasting\PrivateChannel;
 use Illuminate\Broadcasting\InteractsWithSockets;
-use Illuminate\Contracts\Broadcasting\ShouldBroadcast;
+use Illuminate\Contracts\Broadcasting\ShouldBroadcast; 
 
 class ChatEvent implements ShouldBroadcast
 {
