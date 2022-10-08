@@ -2,7 +2,7 @@
 
 namespace App\Console\Commands;
    
-use Carbon\Carbon;  
+use Carbon\Carbon;   
 use Illuminate\Console\Command; 
 
 class DbDumb extends Command
