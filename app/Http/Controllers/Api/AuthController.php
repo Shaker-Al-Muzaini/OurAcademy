@@ -6,7 +6,7 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Controller;
 use App\Models\Language;
 use App\Notifications\VerifyEmail;
-use App\User;
+use App\User; 
 use App\UserLogin;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;
