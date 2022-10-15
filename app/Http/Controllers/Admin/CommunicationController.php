@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Admin;  
  
 use App\User;
-use Illuminate\Http\Request;   
+use Illuminate\Http\Request;    
 use Illuminate\Support\Facades\Log; 
 use App\Http\Controllers\Controller;
 use Brian2694\Toastr\Facades\Toastr;
