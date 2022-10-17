@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Routing\Controller; 
 use Illuminate\Support\Facades\DB; 
 use Modules\CourseSetting\Entities\Category; 
-use Modules\CourseSetting\Entities\Course;
+use Modules\CourseSetting\Entities\Course; 
 use Modules\CourseSetting\Entities\CourseLevel;
 use Modules\Localization\Entities\Language;
 use Modules\Quiz\Entities\OnlineQuiz;
