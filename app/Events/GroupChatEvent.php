@@ -5,7 +5,7 @@ namespace App\Events;
 use App\Models\User; 
 use Illuminate\Broadcasting\PresenceChannel;  
 use Illuminate\Queue\SerializesModels;
-use Modules\Chat\Entities\Conversation;
+use Modules\Chat\Entities\Conversation; 
 use Illuminate\Broadcasting\PrivateChannel;
 use Illuminate\Broadcasting\InteractsWithSockets;
 use Illuminate\Contracts\Broadcasting\ShouldBroadcast;
