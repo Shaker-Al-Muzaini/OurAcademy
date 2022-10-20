@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Api;    
    
-use App\Http\Controllers\Auth\LoginController;      
+use App\Http\Controllers\Auth\LoginController;       
 use App\Http\Controllers\Controller;   
 use App\Models\Language;
 use App\Notifications\VerifyEmail;
