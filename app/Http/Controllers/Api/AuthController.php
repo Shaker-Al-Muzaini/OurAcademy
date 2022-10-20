@@ -320,7 +320,7 @@ class AuthController extends Controller
             return response()->json($response, 500);
         }
 
-    }
+    } 
 
     /**
      * Get the authenticated User
