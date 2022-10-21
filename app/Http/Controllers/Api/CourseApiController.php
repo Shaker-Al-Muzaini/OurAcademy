@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Api; 
       
-use Illuminate\Http\Request;     
+use Illuminate\Http\Request;      
 use Illuminate\Routing\Controller;     
 use Illuminate\Support\Facades\DB;   
 use Modules\CourseSetting\Entities\Category; 
