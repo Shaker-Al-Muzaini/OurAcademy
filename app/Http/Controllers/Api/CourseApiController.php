@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Api;
        
 use Illuminate\Http\Request;        
 use Illuminate\Routing\Controller;          
-use Illuminate\Support\Facades\DB;      
+use Illuminate\Support\Facades\DB;       
 use Modules\CourseSetting\Entities\Category; 
 use Modules\CourseSetting\Entities\Course; 
 use Modules\CourseSetting\Entities\CourseLevel;
