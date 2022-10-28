@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Api;
       
 use App\Http\Controllers\Auth\LoginController;            
 use App\Http\Controllers\Controller;       
-use App\Models\Language; 
+use App\Models\Language;  
 use App\Notifications\VerifyEmail;  
 use App\User; 
 use App\UserLogin;
