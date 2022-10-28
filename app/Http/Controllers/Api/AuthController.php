@@ -23,7 +23,7 @@ use Illuminate\Support\Facades\Validator;
 
 /**
  * @group  User management
- *
+ * 
  * APIs for managing user
  */
 class AuthController extends Controller
