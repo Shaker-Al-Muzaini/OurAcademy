@@ -23,7 +23,7 @@ class MaterialActionBar extends Component
         $this->emit('selectTypeFilter', $this->type);
     }
 
-    public function checkOrgChart($codes)
+    public function checkOrgChart($codes) 
     {
         if (count($codes) == 1) {
             $this->showAddBtn = true;
