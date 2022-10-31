@@ -3,7 +3,7 @@
 namespace App\Http\Livewire; 
   
 use Livewire\Component;
-use Modules\Org\Entities\OrgBranch; 
+use Modules\Org\Entities\OrgBranch;  
 use Modules\Org\Entities\OrgMaterial; 
 
 class MaterialActionBar extends Component
