@@ -4,7 +4,7 @@
     box-shadow: 0px 10px 15px rgba(6, 0, 8, 0.22);
     border-radius: 10px;
     position: absolute; 
-    right: 0;
+    right: 0; 
     width: 350px;
     transform: translateY(30px) translateX(20px);
     opacity: 0;
