@@ -6,7 +6,7 @@ use Livewire\Component;
 use Modules\Org\Entities\OrgBranch;  
 use Modules\Org\Entities\OrgMaterial; 
 
-class MaterialActionBar extends Component
+class MaterialActionBar extends Component 
 {
     protected $listeners = ['checkOrgChart'];
     public $type, $showAddBtn = false, $org_chart;
