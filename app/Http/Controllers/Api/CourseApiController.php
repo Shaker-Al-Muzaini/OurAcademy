@@ -29,7 +29,7 @@ class CourseApiController extends Controller
      * "data": [
      * {
      * "id": 1,
-     * "category_id": 1,
+     * "category_id": 1, 
      * "subcategory_id": 1,
      * "quiz_id": null,
      * "user_id": 2,
