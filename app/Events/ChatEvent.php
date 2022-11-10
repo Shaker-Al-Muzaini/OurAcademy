@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace App\Events; 
 
 use Illuminate\Queue\SerializesModels;   
 use Modules\Chat\Entities\Conversation;
