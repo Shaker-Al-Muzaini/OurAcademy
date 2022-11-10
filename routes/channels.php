@@ -26,3 +26,4 @@ Broadcast::channel('group-chat.{group}', function ($user, Group $group) {
 Broadcast::channel('App.Models.User.{id}', function ($user, $id) {
     return true;
 });
+ 
